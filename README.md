@@ -2,7 +2,7 @@
 ## Front-end Developer
 ### I like to think of myself as a passionate developer always ready to learn. I am looking for a role that will build upon my current capabilities. I have experience in HTML, CSS, SCSS, Tailwindcss, JavaScript and Reactjs.
 * 🖥️  See my portfolio at [My Porfolio](https://emmanuelinua.vercel.app)
-* ✉️  You can contact me at [artofnuel@gmail.com](mailto:artofnuel@gmail.com)
+* ✉️  You can contact me at [my email](mailto:emmanuelinua.work@gmail.com)
 * 🧠  I'm learning Reactjs, Nextjs, Redux and SSR.
 * ⚡  I'm also a low buget gamer. I need to work on that.
 
